@@ -1,0 +1,137 @@
+    1  ls
+    2  ls -a
+    3  git status
+    4  git init
+    5  git status
+    6  touch README.md
+    7  ls -a
+    8  git status
+    9  git log
+   10  git add README.md
+   11  git status
+   12  git commit -m "initial commit"
+   13  nano README.md 
+   14  cat README.md
+   15  git status
+   16  git commit -m "second commit"
+   17  git add README.md
+   18  git status
+   19  git commit -m "second commit"
+   20  git add README.md
+   21  git status
+   22  git commit -m "third commit"
+   23  git add README.md
+   24  git status
+   25  touch README.md
+   26  git log
+   27  git add README.md
+   28  git status
+   29  git add README.md
+   30  ls -a
+   31  git status
+   32  git add README.md
+   33  git commit -m "third commit"
+   34  git reset HEAD README.md
+   35  git status
+   36  git add README.md
+   37  git status
+   38  git add .profile
+   39  git status
+   40  git add README.md
+   41  git status
+   42  git commit -m "third commit"
+   43  git log
+   44  q
+   45  pwd
+   46  git checkout
+   47  bf62dd14c2f8fc03c667d1b225186558bc733db2
+   48  git chechout 5e6f27feb3e1c644582b06d71a1d0dc5157c56c5
+   49  checkout 5e6f27feb3e1c644582b06d71a1d0dc5157c56c5
+   50  git checkout --5e6f27feb3e1c644582b06d71a1d0dc5157c56c5
+   51  git checkout5e6f27feb3e1c644582b06d71a1d0dc5157c56c5
+   52  cat README.md
+   53  git checkout main
+   54  sudo apt install python3-q-text-as-data
+   55  q
+   56  git clean -f
+   57  git status
+   58  git add README.md
+   59  git status
+   60  git clean -f
+   61  git log
+   62  z
+   63  Q
+   64  git checkout 5e6f27feb3e1c644582b06d71a1d0dc5157c56c5
+   65  cat README.md
+   66  git checkout main
+   67  cat README.md
+   68  git branch milkshake-flavours
+   69  git branch
+   70  nano milkshakes.md
+   71  git status
+   72  git add milkshakes.md
+   73  git status 
+   74  commit -m "added initial flavours"
+   75  git commit-m "added initial flavours"
+   76  commit -m "added initial flavours"
+   77  git commit -m "added initial flavours"
+   78  git config --global user.email muaradzz233@gmail.com
+   79  git config --global user.name musa-radebe233
+   80  git commit -m "added intial flavours"
+   81  git log
+   82  git branch
+   83  git main
+   84  git branch history
+   85  git log
+   86  history > history.txt
+   87  git commit -m "added history"
+   88  git add history.txt
+   89  git commit -m "added history"
+   90  git log
+   91  git add README.md 
+   92  git commit -m "random readme changes"
+   93  git restore README.md
+   94  git commit -m "random readme changes"
+   95  git restore README.md
+   96  git add README.md
+   97  git status
+   98  branch history
+   99  git branch history
+  100  git checkout history
+  101  cat README.md
+  102  rm README.md
+  103  echo "booya" > README.md
+  104  git commit -m "rewrote readme
+  105  git commit -m "rewrote readme"
+  106  git checkout main
+  107  ls
+  108  q
+  109  ls
+  110  git ls
+  111  git reset HEAD~1
+  112  ls -a
+  113  git status
+  114  git commit -m "random readme changes"
+  115  git add README.md
+  116  git status
+  117  git commit -m "random readme changes"
+  118  git log
+  119  git check history
+  120  git checkout -b history
+  121  cat README.md
+  122  rm README.md
+  123  echo "booya" > Readme.md
+  124  git commit -m "rewrote readme"
+  125  git restore README.md
+  126  git statu
+  127  git status
+  128  git add README.md
+  129  git status
+  130  git add Readme.md
+  131  git status
+  132  git commit -m "rewrote readme"
+  133  git checkout main
+  134  git checkout README.md
+  135  ls
+  136  git log
+  137  history > history.txt
